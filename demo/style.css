@@ -1,0 +1,249 @@
+
+header a{
+    display: inline-block;
+    text-decoration: none;
+    margin: 0px 0px 0px 40px;
+    padding: 0px 30px;
+    color: gray;
+    font-size: 25px;
+    background-color:transparent;
+    border: none;
+    border-bottom: 2px solid #5caf01;
+}
+#home{
+    margin-left: 500px;
+}
+#image{
+    position: absolute;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+}
+.search{
+    margin-bottom: 310px;
+}
+.search input{
+    margin: 30px 0px 100px 20px;
+    width: 400px;
+    height: 40px;
+    background-color:transparent;
+    border: 3px solid #5caf01;
+    border-top: transparent;
+    border-right: transparent;
+    border-left:transparent;
+}
+.search button{
+    background-color:#5caf01;
+    color: white;
+    padding: 8px 10px;
+    margin: 10px 0px 0px 5px;
+    border: transparent;
+    font-size:20px;
+    border-radius:10px;
+}
+.search button:hover{
+    background-color:transparent;
+    border: 2px solid #5caf01;
+    border-radius:10px;
+    color: #5caf01;
+}
+.search i{
+    margin: 0px 0px 0px 200px;
+}
+#proverb {
+    color: white;
+    margin: 50px 750px 0px 100px;
+}
+.rev{
+    position: relative;
+    padding: 10px;
+    background-color: #5caf01;
+}
+.rev .row .col-12{
+    margin: 0px 0px 10px 0px;
+    padding-left: 100px;
+}
+.rev .row .col-12 i{
+    margin: 100px 150px ;
+}
+.empowered {
+    text-align: center;
+}
+.empowered h5{
+    margin-top: 50px;
+}
+.empowered h1{
+    font-size:54px;
+    font-weight: bold;
+}
+.container .col-3{
+    margin: 10px 60px 10px 50px;
+    box-shadow: 2px 2px #5caf01;
+}
+.container .col-3 img{
+    padding:10px 50px 0px 50px;
+}
+.container .col-3 h6{
+    text-align: center;
+}
+.container .col-3 a{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+}
+.image{
+    text-align: center;
+}
+.image h1{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+}
+.image h6{
+    margin:10px 0px;
+    letter-spacing: 2px;
+    word-spacing: 15px;
+}
+.footer{
+    background-color:#222a35;
+}
+.footer li{
+    display: flex;
+    list-style-type: none;
+    margin: 10px;
+}
+.footer .col-3{
+    margin: 80px 60px 50px 50px;
+    /* border: 1px solid #5caf01; */
+    box-shadow: 2px 2px #5caf01;
+    color: white;
+    }
+.footer h5{
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.video .row{
+    background-color:#60991b;
+}
+.video h1{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+    text-align: center;
+}
+.video p{
+    padding:50px;
+    word-spacing: 3px;
+}
+.video button{
+    margin: 0px 300px;
+    padding:10px 30px;
+    border-radius: 10px;
+    background-color: #5caf01;
+    box-shadow: 10px 10px #222a35;
+}
+.video a{
+    text-decoration: none;
+    color: white;
+}
+.contacts{
+    border:transparent;
+    box-shadow: 2px 2px #5caf01;
+    margin:10px 500px ;
+    padding: 10px 150px;
+    background-color: #222a35;
+    border-radius: 10px;
+    backdrop-filter: blur(20px);
+}
+.contacts input{
+    border: 2px solid #5caf01;
+    border-top: transparent;
+    border-right: transparent;
+    border-left:transparent;
+    background-color: transparent;
+}
+.contacts i{
+    background-color: #5caf01;
+    padding: 5px;
+    border: 1px solid #5caf01;
+}
+.contacts button{
+    margin:0px 50px;
+    border-radius: 10px;
+    background-color: #60991b;
+    color: white;
+    padding: 5px 20px;
+}
+.contacts .form{
+    padding: 40px 0px;
+}
+.title h1{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+    text-align: center;
+}
+.contacts h6{
+    color:white;
+    text-align: center;
+}
+.contacts p{
+    color:white;
+
+}
+.contacts a{
+    text-decoration: none;
+    color: #60991b;
+    font-size: 20px;
+}
+.topic h1{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+    text-align: center;
+}
+.book-about{
+    background-color:#5caf01;
+}
+.book-about h2{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+    text-align: center;
+}
+.book-about p{
+    margin: 50px 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    font-weight: 100px;
+}
+.ours h1{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+    text-align: center; 
+}
+.our-review{
+    background-color:#5caf01;
+}
+.our-review h2{
+    margin-top:50px;
+    font-size:54px;
+    font-weight: bold;
+    text-align: center;
+}
+.our-review p{
+    margin: 50px 20px;
+    word-spacing: 5px;
+    font-size: 18px;
+    font-weight: 100px;
+}
+.reviewupdate button{
+margin:0px 700px 20px;
+border-radius: 10px;
+background-color: #60991b;
+color: white;
+padding: 5px 20px;
+}
